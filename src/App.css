@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+body{
+  background-image: linear-gradient(rgb(222, 142, 222),pink, skyblue );
+  
+}
+
